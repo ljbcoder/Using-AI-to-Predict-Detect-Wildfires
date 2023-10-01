@@ -2,7 +2,7 @@
 Every wildfire has a "Golden Time", a marginal window of hope before it escalates into an uncontrollable inferno. But what if we were able to spot a wildfire before time ran out?
 
 
-
+https://devpost.com/software/using-ai-to-predict-detect-wildfires
 
 
 <img width="673" alt="Try_this_thumbnail" src="https://github.com/ljbcoder/Using-AI-to-Predict-Detect-Wildfires/assets/146613804/75ff5d17-71c6-472b-af6b-2a76db52bb80">
