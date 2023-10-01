@@ -4,10 +4,9 @@ Every wildfire has a "Golden Time", a marginal window of hope before it escalate
 
 
 
+
 <img width="673" alt="Try_this_thumbnail" src="https://github.com/ljbcoder/Using-AI-to-Predict-Detect-Wildfires/assets/146613804/75ff5d17-71c6-472b-af6b-2a76db52bb80">
-
-
-
+<img width="598" alt="final-test" src="https://github.com/ljbcoder/Using-AI-to-Predict-Detect-Wildfires/assets/146613804/78fc3e36-f403-4dd6-92f0-7bd6d29cc697">
 <img width="1179" alt="Gradio" src="https://github.com/ljbcoder/Using-AI-to-Predict-Detect-Wildfires/assets/146613804/72771b3e-700e-457c-bde5-db5a3edcfb8f">
 
 <img width="1005" alt="Convolutional layers" src="https://github.com/ljbcoder/Using-AI-to-Predict-Detect-Wildfires/assets/146613804/d913d091-627c-439c-8c08-bcea1bc96ff8">
