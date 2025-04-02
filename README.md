@@ -1,7 +1,7 @@
 # Using-AI-to-Predict-Detect-Wildfires
 Every wildfire has a "Golden Time", a marginal window of hope before it escalates into an uncontrollable inferno. But what if we were able to spot a wildfire before time ran out?
 
-## 🏆Hackathon Winner 🏆
+## 🏆Hackathon Wins 🏆
 1. PoweringSTEMHacks2 - Best Overall Hack
 2. Youth Data Hack - Second Overall
 3. Hack4Earth - Honorable Mention
