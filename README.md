@@ -6,7 +6,7 @@ Every wildfire has a "Golden Time", a marginal window of hope before it escalate
 2. Youth Data Hack - Second Overall
 3. Hack4Earth - Honorable Mention
 
-Check out my DevPost Submission for more details!
+Check out my DevPost Submission for more details! : 
 https://devpost.com/software/using-ai-to-predict-detect-wildfires
 
 
